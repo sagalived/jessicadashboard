@@ -1,0 +1,6 @@
+{
+  "name": "Transaction Dashboard",
+  "description": "A comprehensive dashboard for analyzing transaction data from CSV imports with date and category filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
